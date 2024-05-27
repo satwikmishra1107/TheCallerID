@@ -1,4 +1,12 @@
-# CallerID: Web Application Documentation
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=F7F5E5&vCenter=true&random=false&width=700&height=45&lines=CallerID%3A+Web+Application+Documentation)](https://git.io/typing-svg)
+ 
+Original Data of [CallerID](https://github.com/satwikmishra1107/TheCallerID/blob/main/README.md). Updated by [Pome](https://github.com/satwikmishra1107) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="30" height="30" />
+
+
+` 🔥 Stars `  `🌐 Dependent Packages ` ` 📝 Last Commit `
+  
+
 
 ## Overview
 CallerID is an innovative web application designed to provide users with detailed information about any phone number. Leveraging the power of the Truecaller API, this platform offers a safe and secure way to look up phone numbers without the need to download the Truecaller app onto your device.
